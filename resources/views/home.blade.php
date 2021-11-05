@@ -1,0 +1,510 @@
+@extends('layouts.app')
+
+@section('headSection')
+@endsection
+
+@section('main-content')
+
+<!-- =====================================
+==== Start Hero -->
+<section class="hero section-padding" data-scroll-index="1">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-5">
+                <div class="hero-img mb-md50">
+                    <img src="frontend/img/bg1.jpg" alt="">
+                </div>
+            </div>
+            <div class="col-lg-7">
+                <div class="content">
+                    <h4 class="title title-left">Qui suis-je ?</h4>
+
+                    <p>Ingénieur en Génie logiciel, Lemotio bedel a fondé OCTA en 2018.
+                        Il est passionné par la technologie et est très actif dans le secteur.
+                        Deux fois lauréats de la semaine nationale du numérique, il est l’homme caché derrière la
+                        création de “Quiz224” une application éducative et ludique qui compte plus de 10.000
+                        utilisateurs sur playstore et a développé avec son équipe plusieurs solutions digitales
+                        pour les entreprises de la place afin de faciliter leur fonctionnement.
+
+                    </p>
+
+                    <p>
+                        Il est aussi cofondateur de “Devscom”, une communauté de développeurs très active dans le
+                        partage de savoir dont il est le principal formateur depuis plus d’un an et qui avec les jeunes
+                        bénéficiaires a développé il y’a quelque mois “Wooly”, une application de don de sang pour la
+                        communauté guinéenne.
+                    </p>
+
+
+                    <div class="social-icon">
+
+                        <a href="#0">
+                            <span class="icon"><i class="fab fa-twitter"></i></span>
+                        </a>
+                        <a href="#0">
+                            <span class="icon"><i class="fab fa-github"></i></span>
+                        </a>
+                        <a href="#0">
+                            <span class="icon"><i class="fab fa-linkedin"></i></span>
+                        </a>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Hero ====
+======================================= -->
+
+
+<!-- =====================================
+==== Start Resume -->
+<section class="resume bg-img" data-overlay-dark="8" data-background="frontend/img/background2.jpg"
+         data-scroll-index="1">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-sm-6">
+                <div class="item mb-md50">
+                    <span class="icon icon-pencil"></span><br>
+                    <h5 class="title title-left">Education</h5>
+                    <ul>
+                        <li>
+                            <h6>Université Nongo Conakry</h6>
+
+                            <p>2012 - 2016, Bac +4 Génie logiciel</p>
+                        </li>
+                        <li>
+                            <h6>Groupe Scolaire Yattaya</h6>
+
+                            <p>2004 - 2012, BAC</p>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6">
+                <div class="item mb-md50">
+                    <span class="icon icon-briefcase"></span><br>
+                    <h5 class="title title-left">Expériences</h5>
+                    <ul>
+                        <li>
+                            <h6>BnDsystems</h6>
+
+                            <p>Octobre 2017 - Avril 2018, Consultant IT</p>
+                        </li>
+                        <li>
+                            <h6>Inekto Group</h6>
+
+                            <p>Juillet 2016 - Janvier 2017, Développeur android</p>
+                        </li>
+                        <li>
+                            <h6>Banki Technologie</h6>
+
+                            <p>Janvier 2016 - Mai 2016, Développeur android</p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="item skills">
+                    <span class="icon icon-layers"></span><br>
+                    <h5 class="title title-left">Mes compétences</h5>
+
+                    <div class="skill">
+                        <h6>Android <span>90%</span></h6>
+
+                        <div class="skills-progress"><span data-value='90%'></span></div>
+                    </div>
+                    <div class="skill">
+                        <h6>Laravel <span>80%</span></h6>
+
+                        <div class="skills-progress"><span data-value='80%'></span></div>
+                    </div>
+                    <div class="skill">
+                        <h6>Morpho SDK <span>85%</span></h6>
+
+                        <div class="skills-progress"><span data-value='85%'></span></div>
+                    </div>
+                    <div class="skill">
+                        <h6>Telpo SDK <span>75%</span></h6>
+
+                        <div class="skills-progress"><span data-value='75%'></span></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Resume ====
+======================================= -->
+
+
+<!-- =====================================
+==== Start Services -->
+<section class="services section-padding" data-scroll-index="2">
+    <div class="container">
+        <div class="row">
+
+            <div class="section-head full-width">
+                <h4 class="title">Mes services</h4>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="item mb-md50">
+                    <span class="icon icon-mobile"></span>
+                    <h6>Application android</h6>
+
+                    <p>fusce quis volutpat porta, ut tincidunt eros est nec diam erat quis volutpat porta, neque massa,
+                        ut tincidunt eros est nec diam</p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 active bolt">
+                <div class="item mb-md50">
+                    <span class="icon icon-browser"></span>
+                    <h6>Application web</h6>
+
+                    <p>fusce quis volutpat porta, ut tincidunt eros est nec diam erat quis volutpat porta, neque massa,
+                        ut tincidunt eros est nec diam</p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="item mb-md50">
+                    <span class="icon icon-global"></span>
+                    <h6>Biométrie</h6>
+
+                    <p>fusce quis volutpat porta, ut tincidunt eros est nec diam erat quis volutpat porta, neque massa,
+                        ut tincidunt eros est nec diam</p>
+                </div>
+            </div>
+            <div class="bord full-width"></div>
+            <div class="col-lg-4 col-md-6">
+                <div class="item mb-md50">
+                    <span class="icon icon-shield"></span>
+                    <h6>ERP</h6>
+
+                    <p>fusce quis volutpat porta, ut tincidunt eros est nec diam erat quis volutpat porta, neque massa,
+                        ut tincidunt eros est nec diam</p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 active">
+                <div class="item mb-sm50">
+                    <span class="icon icon-newspaper"></span>
+                    <h6>Formations</h6>
+
+                    <p>fusce quis volutpat porta, ut tincidunt eros est nec diam erat quis volutpat porta, neque massa,
+                        ut tincidunt eros est nec diam</p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="item">
+                    <span class="icon icon-laptop"></span>
+                    <h6>Desktop</h6>
+
+                    <p>fusce quis volutpat porta, ut tincidunt eros est nec diam erat quis volutpat porta, neque massa,
+                        ut tincidunt eros est nec diam</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- End Services ====
+======================================= -->
+
+
+<!-- =====================================
+==== Start Numbers -->
+<div class="numbers bg-img" data-stellar-background-ratio="0.5" data-overlay-dark="8"
+     data-background="frontend/img/background3.jpg">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-6">
+                <div class="item mb-md50">
+                    <span class="icon icon-happy"></span>
+
+                    <h2 class="count">340</h2>
+
+                    <p>Clients satisfaits</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="item mb-md50">
+                    <span class="icon icon-layers"></span>
+
+                    <h2 class="count">950</h2>
+
+                    <p>Projets réalisés</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="item mb-sm50">
+                    <span class="icon icon-profile-male"></span>
+
+                    <h2 class="count">520</h2>
+
+                    <p>Personnes formées</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="item">
+                    <span class="icon icon-newspaper"></span>
+
+                    <h2 class="count">6350</h2>
+
+                    <p>Nombre de formations</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Numbers ====
+======================================= -->
+
+<!-- =====================================
+    	==== Start Portfolio -->
+<section class="portfolio section-padding" data-scroll-index="3">
+    <div class="container">
+        <div class="row">
+
+            <!-- Section-Head -->
+            <div class="section-head full-width">
+                <h4 class="title">Mes réalisations</h4>
+            </div>
+
+        </div>
+
+        <div class="row justify-content-center">
+
+            <!-- filter links -->
+            <div class="filtering text-center mb-50">
+                <span data-filter='*' class="active">Tout</span>
+                <span data-filter='.brand'>Web</span>
+                <span data-filter='.web'>Android</span>
+                <span data-filter='.graphic'>Biométrie</span>
+            </div>
+
+            <!-- gallery -->
+            <div class="gallery full-width">
+
+                <!-- gallery item -->
+                <div class="col-md-6 col-lg-4 items graphic">
+                    <div class="item-img">
+                        <img src="frontend/img/portfolio/1.jpg" alt="image">
+
+                        <div class="item-img-overlay text-center valign">
+                            <div class="overlay-info vertical-center full-width">
+                                <h6>Design . Motion</h6>
+                                <h5>Crearive Design</h5>
+                            </div>
+                            <a href="frontend/img/portfolio/1.jpg" class="link">
+                                <i class="fas fa-eye"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- gallery item -->
+                <div class="col-md-6 col-lg-4 items web">
+                    <div class="item-img">
+                        <img src="frontend/img/portfolio/2.jpg" alt="image">
+
+                        <div class="item-img-overlay text-center valign">
+                            <div class="overlay-info vertical-center full-width">
+                                <h6>Design . Motion</h6>
+                                <h5>Crearive Design</h5>
+                            </div>
+                            <a href="frontend/img/portfolio/2.jpg" class="link">
+                                <i class="fas fa-eye"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- gallery item -->
+                <div class="col-md-6 col-lg-4 items graphic">
+                    <div class="item-img">
+                        <img src="frontend/img/portfolio/3.jpg" alt="image">
+
+                        <div class="item-img-overlay text-center valign">
+                            <div class="overlay-info vertical-center full-width">
+                                <h6>Design . Motion</h6>
+                                <h5>Crearive Design</h5>
+                            </div>
+                            <a href="frontend/img/portfolio/4.jpg" class="link">
+                                <i class="fas fa-eye"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- gallery item -->
+                <div class="col-md-6 col-lg-4 items web">
+                    <div class="item-img">
+                        <img src="frontend/img/portfolio/4.jpg" alt="image">
+
+                        <div class="item-img-overlay text-center valign">
+                            <div class="overlay-info vertical-center full-width">
+                                <h6>Design . Motion</h6>
+                                <h5>Crearive Design</h5>
+                            </div>
+                            <a href="frontend/img/portfolio/4.jpg" class="link">
+                                <i class="fas fa-eye"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- gallery item -->
+                <div class="col-md-6 col-lg-4 items brand">
+                    <div class="item-img">
+                        <img src="frontend/img/portfolio/5.jpg" alt="image">
+
+                        <div class="item-img-overlay text-center valign">
+                            <div class="overlay-info vertical-center full-width">
+                                <h6>Design . Motion</h6>
+                                <h5>Crearive Design</h5>
+                            </div>
+                            <a href="frontend/img/portfolio/5.jpg" class="link">
+                                <i class="fas fa-eye"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- gallery item -->
+                <div class="col-md-6 col-lg-4 items brand">
+                    <div class="item-img">
+                        <img src="frontend/img/portfolio/6.jpg" alt="image">
+
+                        <div class="item-img-overlay text-center valign">
+                            <div class="overlay-info vertical-center full-width">
+                                <h6>Design . Motion</h6>
+                                <h5>Crearive Design</h5>
+                            </div>
+                            <a href="frontend/img/portfolio/6.jpg" class="link">
+                                <i class="fas fa-eye"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="clearfix"></div>
+            </div>
+
+
+
+        </div>
+    </div>
+</section>
+<!-- End Portfolio ====
+======================================= -->
+
+
+<!-- =====================================
+==== Start Contact -->
+<section class="contact section-padding bg-img" data-overlay-dark="8" data-background="img/b5.html"
+         data-scroll-index="6">
+    <div class="container">
+        <div class="row">
+
+            <!-- Section-Head -->
+            <div class="section-head full-width mb-50">
+                <h4 class="title">Contactez-moi</h4>
+            </div>
+
+            <form class="form full-width" id="contact-form" method="post" action="https://moud-portfolio.herokuapp.com/contact.php.html">
+                <div class="messages"></div>
+
+                <div class="controls">
+
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <input id="form_name" type="text" name="name" placeholder="Nom *" required="required">
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <input id="form_email" type="email" name="email" placeholder="Adresse e-mail *"
+                                       required="required">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <input id="form_subject" type="text" name="objet" placeholder="Objet *">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <textarea id="form_message" name="message" placeholder="Votre message *" rows="4"
+                                          required="required"></textarea>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                        <span class="buton buton-lg">
+	                                    	<button type="submit" front="Envoyer" back="&#xf35d;"></button>
+										</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+
+            <div class="info full-width">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="item mb-sm50">
+                            <span class="icon icon-mobile"></span>
+
+                            <div class="cont">
+                                <h6>Téléphone</h6>
+
+                                <p>+237 698 XX XX XX</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="item mb-sm50">
+                            <span class="icon icon-envelope"></span>
+
+                            <div class="cont">
+                                <h6>Email</h6>
+
+                                <p>lemotiobedel@gmail.com</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="item">
+                            <span class="icon icon-map-pin"></span>
+
+                            <div class="cont">
+                                <h6>Adresse</h6>
+
+                                <p>Logpom, Cameroun</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- End Contact ====
+======================================= -->
+@endsection
+
+
+
+@section('footerSection')
+@endsection
