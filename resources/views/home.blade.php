@@ -38,13 +38,13 @@
 
                     <div class="social-icon">
 
-                        <a href="#0">
+                        <a href="https://github.com/bedel-lemotio">
                             <span class="icon"><i class="fab fa-twitter"></i></span>
                         </a>
-                        <a href="#0">
+                        <a href="https://github.com/bedel-lemotio">
                             <span class="icon"><i class="fab fa-github"></i></span>
                         </a>
-                        <a href="#0">
+                        <a href="https://www.linkedin.com/in/bedel-l-073613136/">
                             <span class="icon"><i class="fab fa-linkedin"></i></span>
                         </a>
 
@@ -223,7 +223,7 @@
                 <div class="item mb-md50">
                     <span class="icon icon-happy"></span>
 
-                    <h2 class="count">340</h2>
+                    <h2 class="count">34</h2>
 
                     <p>Clients satisfaits</p>
                 </div>
@@ -232,7 +232,7 @@
                 <div class="item mb-md50">
                     <span class="icon icon-layers"></span>
 
-                    <h2 class="count">950</h2>
+                    <h2 class="count">50</h2>
 
                     <p>Projets réalisés</p>
                 </div>
@@ -241,7 +241,7 @@
                 <div class="item mb-sm50">
                     <span class="icon icon-profile-male"></span>
 
-                    <h2 class="count">520</h2>
+                    <h2 class="count">15</h2>
 
                     <p>Personnes formées</p>
                 </div>
@@ -250,7 +250,7 @@
                 <div class="item">
                     <span class="icon icon-newspaper"></span>
 
-                    <h2 class="count">6350</h2>
+                    <h2 class="count">150</h2>
 
                     <p>Nombre de formations</p>
                 </div>
