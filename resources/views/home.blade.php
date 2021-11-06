@@ -70,14 +70,19 @@
                     <h5 class="title title-left">Education</h5>
                     <ul>
                         <li>
-                            <h6>Université Nongo Conakry</h6>
+                            <h6>Institut Universitaire de la Côte</h6>
 
-                            <p>2012 - 2016, Bac +4 Génie logiciel</p>
+                            <p>2017 - 2018, Bac +4 Génie logiciel</p>
                         </li>
                         <li>
-                            <h6>Groupe Scolaire Yattaya</h6>
+                            <h6>Collège communautaire du Nouveau-Brunswick (CCNB)</h6>
 
-                            <p>2004 - 2012, BAC</p>
+                            <p>2015 - 2017, Bac +2 Programmation et application mobile</p>
+                        </li>
+                        <li>
+                            <h6>Lycée polyvalent</h6>
+
+                            <p>2008 - 2015, BAC C</p>
                         </li>
 
                     </ul>
@@ -89,19 +94,19 @@
                     <h5 class="title title-left">Expériences</h5>
                     <ul>
                         <li>
-                            <h6>BnDsystems</h6>
+                            <h6>Pethersolutions</h6>
 
-                            <p>Octobre 2017 - Avril 2018, Consultant IT</p>
+                            <p>janvier 2020 - November 2021, Architecte IT</p>
                         </li>
                         <li>
-                            <h6>Inekto Group</h6>
+                            <h6>Afrophinx</h6>
 
-                            <p>Juillet 2016 - Janvier 2017, Développeur android</p>
+                            <p>septembre 2018 - Janvier 2020, Développeur Fullstack</p>
                         </li>
                         <li>
-                            <h6>Banki Technologie</h6>
+                            <h6>AgriApp</h6>
 
-                            <p>Janvier 2016 - Mai 2016, Développeur android</p>
+                            <p>mars 2019 - janvier 2020, Développeur android Lead</p>
                         </li>
                     </ul>
                 </div>
@@ -117,19 +122,34 @@
                         <div class="skills-progress"><span data-value='90%'></span></div>
                     </div>
                     <div class="skill">
+                        <h6>Flutter <span>90%</span></h6>
+
+                        <div class="skills-progress"><span data-value='90%'></span></div>
+                    </div>
+                    <div class="skill">
+                        <h6>IOS (Swift) <span>60%</span></h6>
+
+                        <div class="skills-progress"><span data-value='60%'></span></div>
+                    </div>
+                    <div class="skill">
+                        <h6>Firebase SDK <span>75%</span></h6>
+
+                        <div class="skills-progress"><span data-value='75%'></span></div>
+                    </div>
+                    <div class="skill">
                         <h6>Laravel <span>80%</span></h6>
 
                         <div class="skills-progress"><span data-value='80%'></span></div>
                     </div>
                     <div class="skill">
-                        <h6>Morpho SDK <span>85%</span></h6>
-
-                        <div class="skills-progress"><span data-value='85%'></span></div>
-                    </div>
-                    <div class="skill">
-                        <h6>Telpo SDK <span>75%</span></h6>
+                        <h6>Node Js <span>75%</span></h6>
 
                         <div class="skills-progress"><span data-value='75%'></span></div>
+                    </div>
+                    <div class="skill">
+                        <h6>Angular <span>65%</span></h6>
+
+                        <div class="skills-progress"><span data-value='65%'></span></div>
                     </div>
                 </div>
             </div>
@@ -294,10 +314,13 @@
 
                         <div class="item-img-overlay text-center valign">
                             <div class="overlay-info vertical-center full-width">
-                                <h6>Design . Motion</h6>
-                                <h5>Crearive Design</h5>
+                                <h6>Pether Enrollemnt</h6>
+                                <h5>une application pour gerer les ne application pour gerer les
+                                    ne application pour gerer les ne application pour gerer les
+                                    ne application pour gerer les ne application pour gerer les
+                                </h5>
                             </div>
-                            <a href="frontend/img/portfolio/1.jpg" class="link">
+                            <a href="https://play.google.com/store/apps/details?id=com.lbb.petherenrolment" class="link">
                                 <i class="fas fa-eye"></i>
                             </a>
                         </div>
@@ -311,10 +334,10 @@
 
                         <div class="item-img-overlay text-center valign">
                             <div class="overlay-info vertical-center full-width">
-                                <h6>Design . Motion</h6>
+                                <h6>Danaid</h6>
                                 <h5>Crearive Design</h5>
                             </div>
-                            <a href="frontend/img/portfolio/2.jpg" class="link">
+                            <a href="https://play.google.com/store/apps/details?id=com.danaid.danaidmobile" class="link">
                                 <i class="fas fa-eye"></i>
                             </a>
                         </div>
@@ -328,7 +351,7 @@
 
                         <div class="item-img-overlay text-center valign">
                             <div class="overlay-info vertical-center full-width">
-                                <h6>Design . Motion</h6>
+                                <h6>Glicoben</h6>
                                 <h5>Crearive Design</h5>
                             </div>
                             <a href="frontend/img/portfolio/4.jpg" class="link">
@@ -345,7 +368,7 @@
 
                         <div class="item-img-overlay text-center valign">
                             <div class="overlay-info vertical-center full-width">
-                                <h6>Design . Motion</h6>
+                                <h6>PetherInsure</h6>
                                 <h5>Crearive Design</h5>
                             </div>
                             <a href="frontend/img/portfolio/4.jpg" class="link">
