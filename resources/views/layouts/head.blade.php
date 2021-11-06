@@ -6,11 +6,11 @@
     <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
     <meta name="keywords" content=""/>
-    <meta name="description" content="Mon_portfolio"/>
-    <meta name="author" content="Bedel"/>
+    <meta name="description" content="Je suis Bedel Lemotio, Développeur d’applications informatiques, spécialisé dans le développement d'applications Mobiles."/>
+    <meta name="author" content="Bedel Lemotio"/>
 
     <!-- Title  -->
-    <title>Lbb</title>
+    <title>Bedel Lemotio</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="frontend/img/favicon.ico"/>

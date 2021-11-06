@@ -19,28 +19,18 @@
                 <div class="content">
                     <h4 class="title title-left">Qui suis-je ?</h4>
 
-                    <p>Ingénieur en Génie logiciel, Lemotio bedel a fondé OCTA en 2018.
-                        Il est passionné par la technologie et est très actif dans le secteur.
-                        Deux fois lauréats de la semaine nationale du numérique, il est l’homme caché derrière la
-                        création de “Quiz224” une application éducative et ludique qui compte plus de 10.000
-                        utilisateurs sur playstore et a développé avec son équipe plusieurs solutions digitales
-                        pour les entreprises de la place afin de faciliter leur fonctionnement.
-
+                    <p>Je suis Bedel Lemotio, Développeur d'applications informatiques, spécialiste dans le développement Mobile.
+                        Avec un parcours scolaire à succès dans le domaine de la programmation informatique,
+                        je me suis intégré avec aisance dans le monde professionnel.
+                        Passionné de la programmation informatique et du monde digital,
+                        je travaille dur pour continuer à relever les défis et participer au développement de l'économie numérique.
                     </p>
 
-                    <p>
-                        Il est aussi cofondateur de “Devscom”, une communauté de développeurs très active dans le
-                        partage de savoir dont il est le principal formateur depuis plus d’un an et qui avec les jeunes
-                        bénéficiaires a développé il y’a quelque mois “Wooly”, une application de don de sang pour la
-                        communauté guinéenne.
-                    </p>
 
 
                     <div class="social-icon">
 
-                        <a href="https://github.com/bedel-lemotio">
-                            <span class="icon"><i class="fab fa-twitter"></i></span>
-                        </a>
+
                         <a href="https://github.com/bedel-lemotio">
                             <span class="icon"><i class="fab fa-github"></i></span>
                         </a>
