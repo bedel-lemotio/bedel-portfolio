@@ -16,3 +16,4 @@ use Illuminate\Support\Facades\Route;
 
 
 Route::get('/', [\App\Http\Controllers\HomeController::class, 'index']);
+Route::post('/mail', [\App\Http\Controllers\HomeController::class, 'mail'])->name("mail.store");

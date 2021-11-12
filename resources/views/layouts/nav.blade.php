@@ -32,6 +32,12 @@
                 <li class="nav-item">
                     <a class="nav-link" href="#" data-scroll-nav="6">Contact</a>
                 </li>
+
+                <li class="nav-item">
+                    <a class="nav-link special" target="_blank" href="https://drive.google.com/file/d/1hJV5TvAYVIwzL6PgP4GkEaCZwJhvBD0K/view?usp=sharing"> Mon CV
+                    </a>
+                </li>
+
             </ul>
         </div>
     </div>

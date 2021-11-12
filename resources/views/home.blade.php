@@ -174,8 +174,7 @@
                     <span class="icon icon-browser"></span>
                     <h6>Application web</h6>
 
-                    <p>fusce quis volutpat porta, ut tincidunt eros est nec diam erat quis volutpat porta, neque massa,
-                        ut tincidunt eros est nec diam</p>
+                    <p>Développez et déployez des applications universelles Android, IOS, MacOs, web app, Windows...</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
@@ -183,8 +182,7 @@
                     <span class="icon icon-global"></span>
                     <h6>Biométrie</h6>
 
-                    <p>fusce quis volutpat porta, ut tincidunt eros est nec diam erat quis volutpat porta, neque massa,
-                        ut tincidunt eros est nec diam</p>
+                    <p>Développez et déployez des applications universelles Android, IOS, MacOs, web app, Windows...</p>
                 </div>
             </div>
             <div class="bord full-width"></div>
@@ -426,7 +424,8 @@
                 <h4 class="title">Contactez-moi</h4>
             </div>
 
-            <form class="form full-width" id="contact-form" method="post" action="https://moud-portfolio.herokuapp.com/contact.php.html">
+            <form class="form full-width" id="contact-form" method="post" action="/mail">
+                @csrf
                 <div class="messages"></div>
 
                 <div class="controls">
@@ -440,36 +439,35 @@
 
                         <div class="col-md-6">
                             <div class="form-group">
-                                <input id="form_email" type="email" name="email" placeholder="Adresse e-mail *"
-                                       required="required">
+                                <input id="form_email" type="email" name="email" placeholder="Adresse e-mail *" required="required">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
                             <div class="form-group">
-                                <input id="form_subject" type="text" name="objet" placeholder="Objet *">
+                                <input id="form_subject" type="text" name="object" placeholder="Objet *">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
                             <div class="form-group">
-                                <textarea id="form_message" name="message" placeholder="Votre message *" rows="4"
-                                          required="required"></textarea>
+                                <textarea id="form_message" name="message" placeholder="Votre message *" rows="4" required="required"></textarea>
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
                             <div class="form-group">
-                                        <span class="buton buton-lg">
-	                                    	<button type="submit" front="Envoyer" back="&#xf35d;"></button>
+                                        <span class="buton">
+	                                    <button type="submit" front="Envoyer" back="&#xf35d;" ></button>
 										</span>
                             </div>
                         </div>
                     </div>
                 </div>
+
             </form>
 
             <div class="info full-width">

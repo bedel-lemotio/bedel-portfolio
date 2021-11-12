@@ -14,6 +14,7 @@
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="frontend/img/favicon.ico"/>
+    <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700,800" rel="stylesheet"/>

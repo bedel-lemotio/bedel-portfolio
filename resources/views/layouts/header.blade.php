@@ -15,7 +15,7 @@
                     <span class="cd-words-wrapper">
 				              <b class="is-visible">Je suis Bedel Lemotio</b>
 				              <b> Ingénieur logiciel</b>
-				              <b> Formateur</b>
+				              <b> Specialiste Mobile</b>
 				            </span>
                 </h1>
             </div>

@@ -26,7 +26,7 @@
 		12 Contact
 		13 Footer
 		14 Responsive
-	
+
 
 ---------------------------------------------------------------- */
 /* ----------------------------------------------------------------
@@ -415,6 +415,21 @@ span, a, a:hover {
   -webkit-transition: all .5s;
   transition: all .5s;
 }
+
+.navbar .navbar-nav .special {
+    text-align: center;
+    font-size: 12px;
+    border: 1px solid #eee;
+    cursor: pointer;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+}
+.navbar .navbar-nav .special:hover {
+    background: #C49B66;
+    border-color: #C49B66;
+    color: #fff;
+}
+
 .navbar .navbar-nav .active {
   color: #C49B66 !important;
 }
